@@ -433,6 +433,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
 - [Mole](https://github.com/tw93/Mole) - Clean your Mac and more.
 - [Raccoon](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
+- [ble](https://github.com/kylebrowning/BLESwiftCLI) - Scan, connect, pair, read, write, and inspect Bluetooth Low Energy peripherals.
 
 ### Terminal Sharing Utilities
 
